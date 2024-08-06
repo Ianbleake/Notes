@@ -25,17 +25,17 @@
     {
       "id": "1",
       "content": "HTML is easy",
-      "important": true
+      "important": false
     },
     {
       "id": "2",
       "content": "Browser can execute only JavaScript",
-      "important": true
+      "important": false
     },
     {
       "id": "3",
       "content": "GET and POST are the most important methods of HTTP protocol",
-      "important": false
+      "important": true
     },
     {
       "id": "4bd6",
@@ -60,6 +60,16 @@
     {
       "id": "3697",
       "content": "Hola Mundo",
+      "important": false
+    },
+    {
+      "id": "9c31",
+      "content": "Now I'm use Firebase",
+      "important": true
+    },
+    {
+      "id": "d986",
+      "content": "I already have to rebuild the app ",
       "important": false
     }
   ]

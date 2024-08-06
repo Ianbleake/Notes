@@ -102,10 +102,17 @@ body{
 }
 
 .btnin{
-  
   border-radius: 0px 8px 8px 0px;
   min-width: 100px;
   font-weight: 600;
+}
+
+.btnin:hover{
+  transform: scale(1.05);
+}
+
+.btnin:active{
+  transform:scale(0.95);
 }
 
 
